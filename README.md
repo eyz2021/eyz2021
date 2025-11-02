@@ -1,5 +1,5 @@
 # 👋 Hey, I'm eyz2021!
-你可以叫我eyz或二营长。
+你可以叫我eyz。
 
 <!-- 链接与信息区（竖直排列靠左对齐） -->
 <div align="left">
@@ -18,12 +18,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/eyz2021" style="margin-right: 10px;">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=eyz2021&show_icons=true&include_all_commits=true&count_private=true&theme=white" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/eyz2021">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyz2021&layout=compact&langs_count=8&theme=white" alt="Top Languages" />
-  </a>
+  ![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/overview.svg)
+  ![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/languages.svg)
 </div>
 
 ---
