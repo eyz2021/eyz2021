@@ -17,8 +17,8 @@
 ---
 
 
-![](https://raw.githubusercontent.com/eyz2021/eyz2021/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/eyz2021/eyz2021/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/eyz2021/gitstats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/eyz2021/gitstats/master/generated/languages.svg)
 
 ---
 
