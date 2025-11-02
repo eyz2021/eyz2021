@@ -17,10 +17,8 @@
 ---
 
 
-<div align="center">
-  ![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/overview.svg)
-  ![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/languages.svg)
-</div>
+![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/languages.svg)
 
 ---
 
