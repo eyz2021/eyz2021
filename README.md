@@ -17,11 +17,6 @@
 ---
 
 
-![](https://raw.githubusercontent.com/eyz2021/gitstats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/eyz2021/gitstats/master/generated/languages.svg)
-
----
-
 ### 📫 联系我
 - GitHub: [@eyz2021](https://github.com/eyz2021)
 - QQ：2528363953
