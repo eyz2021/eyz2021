@@ -8,4 +8,4 @@
 - Email: thnpython@163.com
 - Wechat: Downing2009
 ### 社交媒体
-- BiliBili: [@eyz2021](https://space.bilibili.com/616856644)
+- BiliBili: [eyz2021](https://space.bilibili.com/616856644)
